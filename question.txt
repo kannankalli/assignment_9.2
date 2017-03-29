@@ -1,0 +1,4 @@
+1. Find the number of students who scored less than 5(50%).
+2. List the name of students who are from Alaska.
+3. How many government collages are there in Alabama?
+4. List the name of students who are from Oregon and persuing BE.

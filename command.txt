@@ -1,0 +1,4 @@
+pig -x mapreduce studentsnameAlaska.pig
+pig -x mapreduce studentslessthanscored5.pig
+pig -x mapreduce governmentcollegesinalabama.pig
+pig -x mapreduce studentsnameOregonBE.pig
